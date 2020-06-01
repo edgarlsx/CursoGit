@@ -1,0 +1,1 @@
+Projeto de exemplos de comandos git, arquivos vazios.
